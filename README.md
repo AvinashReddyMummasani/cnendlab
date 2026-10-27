@@ -6,6 +6,9 @@
 ## all nodes should be of different files or threads.
 ## pcap file should be from wireshark.(logs should from pyshark file).
 ## pyshark should show minimal requirements as question.
+## GBN input user lost frames should be list.
+## mention all inputs in start of file.
+## ppt should clearly explain how multiple nodes are interacting while ensuring gbn,hamming,csmaca.
 
 > A unified simulation of the **Data Link Layer** combining CSMA/CA (Multiple Access), Go-Back-N ARQ (Flow Control), and Hamming Code (Error Control), implemented in C++ with a Python PyShark packet analyzer.
 
