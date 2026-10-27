@@ -1,6 +1,11 @@
 # Data Link Layer Simulation
 ### End Assignment 8 — Computer Networks (Sem 5)
 
+## use sockets for communication bw nodes.
+## channel should be critical section.
+## all nodes should be of different files or threads.
+## pcap file should be from wireshark.
+
 > A unified simulation of the **Data Link Layer** combining CSMA/CA (Multiple Access), Go-Back-N ARQ (Flow Control), and Hamming Code (Error Control), implemented in C++ with a Python PyShark packet analyzer.
 
 ---
